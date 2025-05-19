@@ -1,7 +1,10 @@
 <!-- 🌟 Updated GitHub Profile README - Stylish + Animated + Interactive -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="40px" /> 
+  Hi, I'm <span style="color:#3498db;">Saurav Rajput</span>
+</h1>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm <span style="color:#3498db">Saurav Rajput</span></h1>
-<h3 align="center"><em>Frontend Developer | Game & AI Enthusiast | C++ & DSA Problem Solver</em></h3>
+<h3 align="center"><em>Frontend Dev • Game & AI Explorer • DSA Solver in C++</em></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Reality;Code+%7C+Creativity+%7C+Curiosity;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
@@ -29,22 +32,35 @@
 ---
 
 ### 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/sauravrajput63"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://stackoverflow.com/users/28754298"><img src="https://skillicons.dev/icons?i=stackoverflow" height="30" /></a>
-  <a href="https://instagram.com/sauravrajput6393"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
-  <a href="https://www.youtube.com/c/sauravrajput"><img src="https://skillicons.dev/icons?i=youtube" height="30" /></a>
-  <a href="https://www.codechef.com/users/sauravraj63"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" /></a>
-  <a href="https://www.hackerrank.com/sauravrajput9839"><img src="https://skillicons.dev/icons?i=hackerrank" height="30" /></a>
-  <a href="https://www.leetcode.com/saurav_rajput63"><img src="https://skillicons.dev/icons?i=leetcode" height="30" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/sauravrajkphs"><img src="https://skillicons.dev/icons?i=gfg" height="30" /></a>
+  <a href="https://www.linkedin.com/in/saurav-rajput-5a1a70214/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.instagram.com/sauravrajput6393/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
+  </a>
+  <a href="https://www.youtube.com/c/sauravrajput">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
+  </a>
+  <a href="https://www.hackerrank.com/sauravrajput9839">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HackerRank logo" />
+  </a>
+  <a href="https://leetcode.com/u/Saurav_Rajput63/">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
+  </a>
+  <a href="https://codolio.com/profile/Saurav_Rajput">
+    <img src="https://img.shields.io/static/v1?message=Codolio&logo=codeforces&label=&color=1f8acb&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codolio logo" />
+  </a>
+  <a href="https://github.com/SAURAV6393">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" />
+  </a>
 </p>
 
----
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,vue,git,mysql,pandas" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github,vscode,postman" />
 </p>
 
 ---
@@ -67,6 +83,13 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav6393&theme=tokyonight" height="200" />
 </div>
+
+---
+
+### 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Codngwthubaid/Codngwthubaid/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
