@@ -1,6 +1,7 @@
-<!-- 🌟 Updated GitHub Profile README - Stylish + Animated + Interactive -->
+<!-- 🌟 Final GitHub Profile README - Stylish + Animated + Interactive -->
+
 <h1 align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="40px" /> 
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="40px" />
   Hi, I'm <span style="color:#3498db;">Saurav Rajput</span>
 </h1>
 
@@ -11,75 +12,60 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurav6393&label=Profile+Views&color=0e75b6&style=flat" alt="saurav6393" />
+  <img src="https://komarev.com/ghpvc/?username=saurav6393&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM4eHlhbWk4aDdlYmFyYXExdWU5c2d6aXEzM2x6cGh3Zmt6NDYxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently exploring: **Modern frontend frameworks**, **AI model deployment**, and **realistic game physics**
-- 🧠 Passionate about: **React**, **GSAP animations**, **C++ DSA**, **Game Dev**, and **Machine Learning**
-- ⚙️ Projects: Built **my own Jarvis** & a **Hill Climb Racing-style physics-based game**
-- 🛠 Coding Profiles: [Check them all on Codolio](https://codolio.com/profile/Saurav_Rajput)
-- 📄 My Resume: [View Here](https://drive.google.com/file/d/1LMdlejNMZiLBWPGD-Dkw7X_bL4kRIjRH/view)
-- 💬 Ask me about: `React`, `Vue`, `GSAP`, `C++`, `DSA`, `AI/ML`, `Python Game Dev`
-- 📫 Reach out: **sauravrajput9839@gmail.com**
+## 🚀 About Me
+- 🌱 Exploring: **Modern frontend frameworks**, **AI model deployment**, **Realistic game physics**
+- 🧠 Passionate about: **React**, **GSAP animations**, **C++ DSA**, **Game Dev**, **Machine Learning**
+- ⚙️ Projects: Built **my own Jarvis** & a **Hill Climb Racing-style game**
+- 🛠 Coding Profiles: [All in one – Codolio](https://codolio.com/profile/Saurav_Rajput)
+- 📄 Resume: [Click to View](https://drive.google.com/file/d/1LMdlejNMZiLBWPGD-Dkw7X_bL4kRIjRH/view)
+- 💬 Ask Me About: React, Vue, GSAP, C++, AI/ML, Game Dev
+- 📫 Reach Me: **sauravrajput9839@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saurav-rajput-5a1a70214/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.instagram.com/sauravrajput6393/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
-  </a>
-  <a href="https://www.youtube.com/c/sauravrajput">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
-  </a>
-  <a href="https://www.hackerrank.com/sauravrajput9839">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HackerRank logo" />
-  </a>
-  <a href="https://leetcode.com/u/Saurav_Rajput63/">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
-  </a>
-  <a href="https://codolio.com/profile/Saurav_Rajput">
-    <img src="https://img.shields.io/static/v1?message=Codolio&logo=codeforces&label=&color=1f8acb&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codolio logo" />
-  </a>
-  <a href="https://github.com/SAURAV6393">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" />
-  </a>
-</p>
-
-
-### 🧰 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github,vscode,postman" />
+  <a href="https://www.linkedin.com/in/saurav-rajput-5a1a70214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sauravrajput6393/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/sauravrajput"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/sauravrajput9839"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Saurav_Rajput63/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/Saurav_Rajput"><img src="https://img.shields.io/badge/Codolio-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://github.com/SAURAV6393"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+## 🧰 Tech Stack & Tools
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saurav6393&theme=algolia&margin-w=15" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,vite,git,github,vscode,postman,figma,blender" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saurav6393&theme=algolia&margin-w=15" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saurav6393&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav6393&layout=compact&theme=tokyonight" height="170" />
 </div>
-<br />
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav6393&theme=tokyonight" height="200" />
 </div>
@@ -93,7 +79,8 @@
 
 ---
 
-### ⚡ Fun Corner
+
+## 🎮 Fun Corner
 <p align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250px">
 </p>
@@ -103,5 +90,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
   <br>
-  <em>“Let’s build the future one line of code at a time.”</em>
+  <em><b>“Let’s build the future one line of code at a time.”</b></em>
 </p>
