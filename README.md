@@ -5,7 +5,7 @@
   Hi, I'm <span style="color:#3498db;">Saurav Rajput</span>
 </h1>
 
-<h3 align="center"><em>Frontend Dev • Game & AI Explorer • DSA Solver in C++</em></h3>
+<h3 align="center"><em>Full Stack Developer • Game & AI Explorer • DSA Solver in C++</em></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Reality;Code+%7C+Creativity+%7C+Curiosity;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
